@@ -1,0 +1,56 @@
+========== City Analytics Summary Report ==========
+
+Zone 1:
+  Population         : 21
+  Power Demand       : 63 MW
+  Water Demand       : 63 kL/day
+  Waste Level        : 84 tons/day
+  Emergencies        :
+    - Fire           : 1 cases
+    - Medical        : 1 cases
+    - Crime          : 3 cases
+  [ALERT] Status     : OVERLOADED RESOURCES ⚠️
+---------------------------------------------------
+Zone 2:
+  Population         : 3
+  Power Demand       : 9 MW
+  Water Demand       : 9 kL/day
+  Waste Level        : 12 tons/day
+  Emergencies        :
+    - Fire           : 2 cases
+    - Medical        : 1 cases
+    - Crime          : 1 cases
+  Status             : Normal ✅
+---------------------------------------------------
+Zone 3:
+  Population         : 12
+  Power Demand       : 36 MW
+  Water Demand       : 36 kL/day
+  Waste Level        : 48 tons/day
+  Emergencies        :
+    - Fire           : 1 cases
+    - Medical        : 2 cases
+    - Crime          : 1 cases
+  [ALERT] Status     : OVERLOADED RESOURCES ⚠️
+---------------------------------------------------
+
+------------ City Summary ------------
+Total Zones              : 3
+Total Population         : 36
+Average Power Demand     : 36 MW
+Average Water Demand     : 36 kL/day
+Average Waste Generation : 48 tons/day
+Max Power Demand         : 63 MW
+Max Water Demand         : 63 kL/day
+Max Waste Level          : 84 tons/day
+Overloaded Zones         : 2
+Normal Zones             : 1
+
+------------ Emergency Summary ------------
+Total Fire Cases         : 4
+Total Medical Cases      : 4
+Total Crime Cases        : 5
+Total Emergency Reports  : 13
+
+Note: This report aggregates power, water, waste, and emergency statistics across all zones.
+It is intended to assist with urban planning, resource allocation, and public safety response optimization.

@@ -1,0 +1,21 @@
+
+                        =====================================================================
+                                        SMART CITY WATER SOURCE ADD LOG REPORT                 
+                        =====================================================================
+
+[Timestamp: Thu Aug 07 18:21:41 2025]
+Water source added: 100 gallons
+Zone 2: Allocated 8 gallons (Need: 8 gallons)
+Final Remaining Water: 92 gallons
+
+[Timestamp: Thu Aug 07 18:23:17 2025]
+Water source added: 100 gallons
+Zone 2: Allocated 8 gallons (Need: 8 gallons)
+Final Remaining Water: 92 gallons
+
+[Timestamp: Thu Aug 07 19:25:12 2025]
+Water source added: 100 gallons
+Zone 3: Allocated 72 gallons (Need: 72 gallons)
+Zone 1: Allocated 26 gallons (Need: 26 gallons)
+Zone 2: Allocated 2 gallons (Need: 18 gallons)
+Final Remaining Water: 0 gallons

@@ -1,0 +1,13 @@
+
+                        =====================================================================
+                                        SMART CITY WATER STRESSED ZONE LOG REPORT                 
+                        =====================================================================
+
+
+[2025-08-07 17:57:44] --- Water-Stressed Zones ---
+Zone 2 is stressed! Unmet Demand: 8 gallons
+
+[2025-08-07 19:25:07] --- Water-Stressed Zones ---
+Zone 1 is stressed! Unmet Demand: 26 gallons
+Zone 2 is stressed! Unmet Demand: 18 gallons
+Zone 3 is stressed! Unmet Demand: 72 gallons

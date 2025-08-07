@@ -1,0 +1,12 @@
+                    
+                    =====================================================================
+                                    SMART CITY RELOCATE CITIZEN LOG REPORT                 
+                    =====================================================================
+
+
+
+[Relocate Citizen] Citizen ID: C1036, Name: Elina Farhana moved from Zone 3 to Zone 1.
+Zone 3 updated - Population: 11, Power: -3 kWh, Water: -3 gallons, Waste: -4 kg
+Zone 1 updated - Population: 23, Power: +3 kWh, Water: +3 gallons, Waste: +4 kg
+
+

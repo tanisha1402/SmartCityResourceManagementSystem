@@ -1,0 +1,343 @@
+=================================================================
+                    SMART CITY CITIZEN LOADING REPORT             
+=================================================================
+
+Source File: citizens_input.txt
+
+Processing Citizen ID: C1001
+  Name       : Tanisha Chowdhury
+  Age        : 24
+  Zone       : 2
+  Profession : Engineer
+  Phone      : 01710000001
+  Email      : tanisha.c@gmail.com
+  ✅ Citizen added to Zone 2. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1002
+  Name       : Arif Hossain
+  Age        : 30
+  Zone       : 2
+  Profession : Doctor
+  Phone      : 01710000002
+  Email      : arif.hossain@medmail.com
+  ✅ Citizen added to Zone 2. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1003
+  Name       : Mitu Rahman
+  Age        : 28
+  Zone       : 2
+  Profession : Teacher
+  Phone      : 01710000003
+  Email      : mitu.r@school.edu
+  ✅ Citizen added to Zone 2. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1004
+  Name       : Shahidul Islam
+  Age        : 35
+  Zone       : 1
+  Profession : Architect
+  Phone      : 01710000004
+  Email      : shahidul.designs@mail.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1005
+  Name       : Sadia Karim
+  Age        : 26
+  Zone       : 1
+  Profession : Software Developer
+  Phone      : 01710000005
+  Email      : sadia.k@devhub.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1006
+  Name       : Nayeem Hasan
+  Age        : 40
+  Zone       : 3
+  Profession : Police Officer
+  Phone      : 01710000006
+  Email      : nayeem@bpolice.gov
+  ✅ Citizen added to Zone 3. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1007
+  Name       : Farzana Akter
+  Age        : 22
+  Zone       : 1
+  Profession : Student
+  Phone      : 01710000007
+  Email      : farzana.akter@edu.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1008
+  Name       : Tareq Mahmud
+  Age        : 29
+  Zone       : 1
+  Profession : Journalist
+  Phone      : 01710000008
+  Email      : tareq.news@gmail.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1009
+  Name       : Nusrat Jahan
+  Age        : 31
+  Zone       : 3
+  Profession : Banker
+  Phone      : 01710000009
+  Email      : nusrat.banking@mail.com
+  ✅ Citizen added to Zone 3. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1010
+  Name       : Rashed Chowdhury
+  Age        : 27
+  Zone       : 1
+  Profession : Lawyer
+  Phone      : 01710000010
+  Email      : rashed.law@court.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1011
+  Name       : Sabina Yasmin
+  Age        : 38
+  Zone       : 1
+  Profession : Nurse
+  Phone      : 01710000011
+  Email      : sabina.nurse@health.gov
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1012
+  Name       : Kamal Uddin
+  Age        : 33
+  Zone       : 3
+  Profession : Shop Owner
+  Phone      : 01710000012
+  Email      : kamal.shop@mail.com
+  ✅ Citizen added to Zone 3. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1013
+  Name       : Fariha Tabassum
+  Age        : 25
+  Zone       : 1
+  Profession : Entrepreneur
+  Phone      : 01710000013
+  Email      : fariha.startup@biz.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1014
+  Name       : Jubayer Rahman
+  Age        : 45
+  Zone       : 1
+  Profession : Electrician
+  Phone      : 01710000014
+  Email      : jubayer.elec@gmail.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1015
+  Name       : Mahira Zaman
+  Age        : 19
+  Zone       : 3
+  Profession : Student
+  Phone      : 01710000015
+  Email      : mahira.z@edu.com
+  ✅ Citizen added to Zone 3. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1016
+  Name       : Sabbir Hossain
+  Age        : 50
+  Zone       : 1
+  Profession : Retired
+  Phone      : 01710000016
+  Email      : sabbir.retired@mail.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1017
+  Name       : Lubna Tasnim
+  Age        : 28
+  Zone       : 1
+  Profession : Pharmacist
+  Phone      : 01710000017
+  Email      : lubna.pharma@health.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1018
+  Name       : Fahim Alvi
+  Age        : 21
+  Zone       : 3
+  Profession : Delivery Agent
+  Phone      : 01710000018
+  Email      : fahim.delivery@quick.com
+  ✅ Citizen added to Zone 3. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1019
+  Name       : Rumana Islam
+  Age        : 32
+  Zone       : 1
+  Profession : Fashion Designer
+  Phone      : 01710000019
+  Email      : rumana.designs@gmail.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1020
+  Name       : Harun Rashid
+  Age        : 36
+  Zone       : 1
+  Profession : Driver
+  Phone      : 01710000020
+  Email      : harun.driver@transit.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1021
+  Name       : Nasima Khatun
+  Age        : 27
+  Zone       : 3
+  Profession : Social Worker
+  Phone      : 01710000021
+  Email      : nasima.help@mail.com
+  ✅ Citizen added to Zone 3. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1022
+  Name       : Yasin Arafat
+  Age        : 34
+  Zone       : 1
+  Profession : Government Officer
+  Phone      : 01710000022
+  Email      : yasin.gov.bd@mail.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1023
+  Name       : Sinthia Alam
+  Age        : 25
+  Zone       : 1
+  Profession : Software Tester
+  Phone      : 01710000023
+  Email      : sinthia.testing@qa.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1024
+  Name       : Rifat Mahmud
+  Age        : 30
+  Zone       : 3
+  Profession : Chef
+  Phone      : 01710000024
+  Email      : rifat.chef@kitchenmail.com
+  ✅ Citizen added to Zone 3. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1025
+  Name       : Rumana Akter
+  Age        : 29
+  Zone       : 1
+  Profession : Artist
+  Phone      : 01710000025
+  Email      : rumana.art@gmail.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1026
+  Name       : Waseka Chowdhury
+  Age        : 25
+  Zone       : 1
+  Profession : Teacher
+  Phone      : 0196756877654
+  Email      : waseka@gmail.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1027
+  Name       : Raihan Kabir
+  Age        : 40
+  Zone       : 1
+  Profession : Data Center Engineer
+  Phone      : 01720000001
+  Email      : raihan.engineer@datagrid.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1028
+  Name       : Tanzila Haque
+  Age        : 38
+  Zone       : 1
+  Profession : Crypto Miner
+  Phone      : 01720000002
+  Email      : tanzila.miner@blockmail.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1029
+  Name       : Rashedul Alam
+  Age        : 42
+  Zone       : 3
+  Profession : AI Lab Scientist
+  Phone      : 01720000003
+  Email      : rashedul.lab@research.com
+  ✅ Citizen added to Zone 3. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1030
+  Name       : Mim Chowdhury
+  Age        : 35
+  Zone       : 3
+  Profession : Biotech Engineer
+  Phone      : 01720000004
+  Email      : mim.bio@medmail.com
+  ✅ Citizen added to Zone 3. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1031
+  Name       : Bashir Hossain
+  Age        : 50
+  Zone       : 1
+  Profession : Power Plant Manager
+  Phone      : 01720000005
+  Email      : bashir.ppm@gridmail.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1032
+  Name       : Anika Sultana
+  Age        : 29
+  Zone       : 3
+  Profession : Cloud Server Admin
+  Phone      : 01720000006
+  Email      : anika.cloud@infra.com
+  ✅ Citizen added to Zone 3. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1033
+  Name       : Sajib Rahman
+  Age        : 27
+  Zone       : 1
+  Profession : VR Developer
+  Phone      : 01720000007
+  Email      : sajib.vr@metaverse.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1034
+  Name       : Nusrat Tanni
+  Age        : 31
+  Zone       : 3
+  Profession : Game Server Engineer
+  Phone      : 01720000008
+  Email      : nusrat.gaming@eplay.com
+  ✅ Citizen added to Zone 3. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1035
+  Name       : Jubair Mahmud
+  Age        : 45
+  Zone       : 1
+  Profession : Data Analyst
+  Phone      : 01720000009
+  Email      : jubair.analytics@stats.com
+  ✅ Citizen added to Zone 1. Resources updated.
+--------------------------------------------
+Processing Citizen ID: C1036
+  Name       : Elina Farhana
+  Age        : 37
+  Zone       : 3
+  Profession : Tech Startup CEO
+  Phone      : 01720000010
+  Email      : elina.startup@vcfund.com
+  ✅ Citizen added to Zone 3. Resources updated.
+--------------------------------------------
+
+======================= Summary ==========================
+Total Citizens Processed : 36
+Successfully Loaded       : 36
+Invalid Zone Entries      : 0
+
+
+=============================== Zones Updated ===================================
+  Zone 1 -> Population: 42, Power: 126, Water: 126, Waste: 168
+  Zone 2 -> Population: 6, Power: 18, Water: 18, Waste: 24
+  Zone 3 -> Population: 24, Power: 72, Water: 72, Waste: 96
+
+Note: This log is auto-generated after reading the citizen input file.

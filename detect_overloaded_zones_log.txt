@@ -1,0 +1,26 @@
+
+                        =====================================================================
+                                        SMART CITY  OVERLOAD ZONES LOG REPORT                 
+                        =====================================================================
+
+
+
+[Timestamp: Thu Aug 07 17:28:14 2025
+]
+--- Overloaded Zones ---
+Zone 2 is overloaded. Demand: 9, Allocated: 1
+------------------------------------------
+
+[Timestamp: Thu Aug 07 18:19:04 2025
+]
+--- Overloaded Zones ---
+Zone 2 is overloaded. Demand: 9, Allocated: 1
+------------------------------------------
+
+[Timestamp: Thu Aug 07 19:24:51 2025
+]
+--- Overloaded Zones ---
+Zone 1 is overloaded. Demand: 126, Allocated: 100
+Zone 2 is overloaded. Demand: 18, Allocated: 0
+Zone 3 is overloaded. Demand: 72, Allocated: 0
+------------------------------------------

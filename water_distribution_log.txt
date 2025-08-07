@@ -1,0 +1,16 @@
+
+                        =====================================================================
+                                        SMART CITY WATER DISTRIBUTION LOG REPORT                 
+                        ==================================================================
+
+[2025-08-07 17:51:10] --- Water Distribution (Greedy Allocation) ---
+Zone 1: Allocated 63 / 63 gallons
+Zone 2: Allocated 1 / 9 gallons
+Zone 3: Allocated 36 / 36 gallons
+Remaining Water: 0 gallons
+
+[2025-08-07 19:25:02] --- Water Distribution (Greedy Allocation) ---
+Zone 1: Allocated 100 / 126 gallons
+Zone 2: Allocated 0 / 18 gallons
+Zone 3: Allocated 0 / 72 gallons
+Remaining Water: 0 gallons

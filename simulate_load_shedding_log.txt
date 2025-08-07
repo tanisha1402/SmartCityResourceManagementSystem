@@ -1,0 +1,28 @@
+
+                        =====================================================================
+                                        SMART CITY LOAD SHEDDING LOG REPORT                 
+                        =====================================================================
+
+[Timestamp: Thu Aug 07 17:28:52 2025
+]
+--- Load Shedding Simulation ---
+Zone 1: Power supply is stable.
+Zone 2: Load shedding in effect! Shortage of 8 kWh.
+Zone 3: Power supply is stable.
+------------------------------------------
+
+[Timestamp: Thu Aug 07 18:19:11 2025
+]
+--- Load Shedding Simulation ---
+Zone 1: Power supply is stable.
+Zone 2: Load shedding in effect! Shortage of 8 kWh.
+Zone 3: Power supply is stable.
+------------------------------------------
+
+[Timestamp: Thu Aug 07 19:24:53 2025
+]
+--- Load Shedding Simulation ---
+Zone 1: Load shedding in effect! Shortage of 26 kWh.
+Zone 2: Load shedding in effect! Shortage of 18 kWh.
+Zone 3: Load shedding in effect! Shortage of 72 kWh.
+------------------------------------------

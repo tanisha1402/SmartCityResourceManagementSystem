@@ -1,0 +1,28 @@
+
+
+                        =====================================================================
+                                        SMART CITY CITIZEN DISTRIBUTION LOG                  
+                        =====================================================================
+[Timestamp: Thu Aug 07 18:50:22 2025]
+--- Citizen Distribution by Zone ---
+Zone 1: 21 citizens (58.33%)
+Zone 2: 3 citizens (8.33%)
+Zone 3: 12 citizens (33.33%)
+Total Citizens: 36
+----------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:01:04 2025]
+--- Citizen Distribution by Zone ---
+Zone 1: 21 citizens (58.33%)
+Zone 2: 3 citizens (8.33%)
+Zone 3: 12 citizens (33.33%)
+Total Citizens: 36
+----------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:26:02 2025]
+--- Citizen Distribution by Zone ---
+Zone 1: 42 citizens (58.33%)
+Zone 2: 6 citizens (8.33%)
+Zone 3: 24 citizens (33.33%)
+Total Citizens: 72
+----------------------------------------------------

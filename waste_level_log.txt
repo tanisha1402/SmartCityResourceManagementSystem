@@ -1,0 +1,19 @@
+
+
+                        =====================================================================
+                                        SMART CITY WASTE LEVEL LOG                  
+                        =====================================================================
+
+[Timestamp: Thu Aug 07 19:07:29 2025]
+--- Viewing Waste Levels ---
+Zone 1: 84% waste level
+Zone 2: 12% waste level
+Zone 3: 48% waste level
+--------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:25:42 2025]
+--- Viewing Waste Levels ---
+Zone 1: 168% waste level
+Zone 2: 24% waste level
+Zone 3: 96% waste level
+--------------------------------------------------

@@ -1,0 +1,48 @@
+=================================================================
+                    SMART CITY POWER GRID REPORT                 
+=================================================================
+
+TOTAL POWER GRID SUMMARY
+------------------------
+Total Power Capacity     : 200.00 kWh
+Total Power Allocated    : 108.00 kWh
+Total Power Demand       : 108.00 kWh
+Available Power          : 92.00 kWh
+
+POWER SOURCE ADDITIONS HISTORY
+------------------------------
+Added 100.00 kWh on 2025-8-7 17:29:54
+
+ZONE-WISE POWER DETAILS
+----------------------
+Zone 1:
+  Population          : 21
+  Power Demand        : 63.00 kWh
+  Power Allocated     : 63.00 kWh
+  STATUS              : Stable
+  LOAD SHEDDING       : None
+
+Zone 2:
+  Population          : 3
+  Power Demand        : 9.00 kWh
+  Power Allocated     : 9.00 kWh
+  STATUS              : Stable
+  LOAD SHEDDING       : None
+
+Zone 3:
+  Population          : 12
+  Power Demand        : 36.00 kWh
+  Power Allocated     : 36.00 kWh
+  STATUS              : Stable
+  LOAD SHEDDING       : None
+
+
+POWER DISTRIBUTION & REDISTRIBUTION
+-----------------------------------
+Latest power allocation was done using a Greedy algorithm prioritizing zones with highest demand.
+Additional power sources have been added to meet growing demand dynamically.
+Load shedding simulations indicate zones with insufficient power supply.
+
+============================================
+       END OF POWER GRID REPORT             
+============================================

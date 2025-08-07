@@ -1,0 +1,53 @@
+
+
+                        =====================================================================
+                                        SMART CITY EMERGENCY LOAD LOG                  
+                        =====================================================================
+
+[Timestamp: Thu Aug 07 18:53:43 2025]
+--- Emergency Load by Zone ---
+Zone 1:
+  Fire Emergencies   : 1
+  Medical Emergencies: 1
+  Crime Emergencies  : 3
+Zone 2:
+  Fire Emergencies   : 2
+  Medical Emergencies: 1
+  Crime Emergencies  : 1
+Zone 3:
+  Fire Emergencies   : 1
+  Medical Emergencies: 2
+  Crime Emergencies  : 1
+----------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:01:05 2025]
+--- Emergency Load by Zone ---
+Zone 1:
+  Fire Emergencies   : 2
+  Medical Emergencies: 1
+  Crime Emergencies  : 3
+Zone 2:
+  Fire Emergencies   : 2
+  Medical Emergencies: 1
+  Crime Emergencies  : 1
+Zone 3:
+  Fire Emergencies   : 1
+  Medical Emergencies: 2
+  Crime Emergencies  : 1
+----------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:26:05 2025]
+--- Emergency Load by Zone ---
+Zone 1:
+  Fire Emergencies   : 2
+  Medical Emergencies: 1
+  Crime Emergencies  : 3
+Zone 2:
+  Fire Emergencies   : 2
+  Medical Emergencies: 1
+  Crime Emergencies  : 1
+Zone 3:
+  Fire Emergencies   : 1
+  Medical Emergencies: 2
+  Crime Emergencies  : 1
+----------------------------------------------------

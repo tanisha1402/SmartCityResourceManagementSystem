@@ -1,0 +1,12 @@
+
+                 =====================================================================
+                                SMART CITY UPDATE CITIZEN LOG REPORT                 
+                 =====================================================================
+
+
+
+--- Citizen Update Log ---
+Citizen ID: C1036
+Previous Info -> Name: Elina Farhana, Age: 37, Zone: 3, Profession: Tech Startup CEO, Phone: 01720000010, Email: elina.startup@vcfund.com
+Updated Field: Name | Old: Elina Farhana | New: Elana Farhana
+Update Status: SUCCESS

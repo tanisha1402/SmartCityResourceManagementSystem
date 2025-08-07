@@ -1,0 +1,18 @@
+
+                        =====================================================================
+                                        SMART CITY CRITICAL WASTE OVERFOLW PRIDICTION LOG                  
+                        =====================================================================
+      
+[Timestamp: Thu Aug 07 19:17:15 2025]
+--- Waste Overflow Prediction (Dynamic Programming) ---
+Zone 1: 4 day(s) until overflow
+Zone 2: 18 day(s) until overflow
+Zone 3: 11 day(s) until overflow
+------------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:25:45 2025]
+--- Waste Overflow Prediction (Dynamic Programming) ---
+Zone 1: 0 day(s) until overflow
+Zone 2: 16 day(s) until overflow
+Zone 3: 1 day(s) until overflow
+------------------------------------------------------

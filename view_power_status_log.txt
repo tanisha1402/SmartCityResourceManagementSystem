@@ -1,0 +1,47 @@
+
+                        =====================================================================
+                                        SMART CITY  POWER STATUS LOG REPORT                 
+                        =====================================================================
+
+
+[Timestamp: Thu Aug 07 17:27:46 2025
+]
+--- Power Grid Status ---
+Total Power Capacity: 100 kWh
+Total Power Demand: 108 kWh
+Total Power Allocated: 100 kWh
+Available Power: 0 kWh
+
+Zone-wise Power Distribution:
+Zone 1: 63 allocated / 63 demanded
+Zone 2: 1 allocated / 9 demanded
+Zone 3: 36 allocated / 36 demanded
+------------------------------------------
+
+[Timestamp: Thu Aug 07 18:18:54 2025
+]
+--- Power Grid Status ---
+Total Power Capacity: 100 kWh
+Total Power Demand: 108 kWh
+Total Power Allocated: 100 kWh
+Available Power: 0 kWh
+
+Zone-wise Power Distribution:
+Zone 1: 63 allocated / 63 demanded
+Zone 2: 1 allocated / 9 demanded
+Zone 3: 36 allocated / 36 demanded
+------------------------------------------
+
+[Timestamp: Thu Aug 07 19:24:49 2025
+]
+--- Power Grid Status ---
+Total Power Capacity: 100 kWh
+Total Power Demand: 216 kWh
+Total Power Allocated: 100 kWh
+Available Power: 0 kWh
+
+Zone-wise Power Distribution:
+Zone 1: 100 allocated / 126 demanded
+Zone 2: 0 allocated / 18 demanded
+Zone 3: 0 allocated / 72 demanded
+------------------------------------------

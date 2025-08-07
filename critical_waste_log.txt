@@ -1,0 +1,15 @@
+
+
+                        =====================================================================
+                                        SMART CITY CRITICAL WASTE LOG                  
+                        =====================================================================
+      
+[Timestamp: Thu Aug 07 19:14:56 2025]
+--- Zone with Highest Waste Level (Divide & Conquer) ---
+Zone 1 --> 84% Waste
+--------------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:25:44 2025]
+--- Zone with Highest Waste Level (Divide & Conquer) ---
+Zone 1 --> 168% Waste
+--------------------------------------------------------

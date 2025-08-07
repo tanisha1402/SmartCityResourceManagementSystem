@@ -1,0 +1,44 @@
+=================================================================
+                    SMART CITY WATER USAGE REPORT                
+=================================================================
+
+TOTAL WATER SUPPLY SUMMARY
+--------------------------
+Total Water Capacity     : 200.00 gallons
+Total Water Allocated    : 108.00 gallons
+Total Water Demand       : 108.00 gallons
+Available Water Remaining: 92.00 gallons
+
+WATER SOURCE ADDITIONS HISTORY
+------------------------------
+Added 100.00 gallons on 2025-8-7 18:23:17
+
+ZONE-WISE WATER DETAILS
+------------------------
+Zone 1:
+  Population         : 21
+  Water Demand       : 63.00 gallons
+  Water Allocated    : 63.00 gallons
+  STATUS             : Stable
+
+Zone 2:
+  Population         : 3
+  Water Demand       : 9.00 gallons
+  Water Allocated    : 9.00 gallons
+  STATUS             : Stable
+
+Zone 3:
+  Population         : 12
+  Water Demand       : 36.00 gallons
+  Water Allocated    : 36.00 gallons
+  STATUS             : Stable
+
+
+WATER DISTRIBUTION STRATEGY
+----------------------------
+Water distribution uses a Greedy approach prioritizing high-demand zones.
+Zone-wise stress status helps optimize future supply planning.
+
+============================================
+       END OF WATER USAGE REPORT            
+============================================

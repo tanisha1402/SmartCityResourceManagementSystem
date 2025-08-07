@@ -1,0 +1,49 @@
+
+
+                        =====================================================================
+                                        SMART CITY EMERGENCY DISPATCHED UNITS LOG                  
+                        =====================================================================
+
+[Timestamp: Thu Aug 07 18:42:02 2025]
+--- Dispatching Emergency Units ---
+Dispatched unit to Zone 2 for Fire (Severity: 10)
+
+Dispatched unit to Zone 3 for Medical (Severity: 9)
+
+Dispatched unit to Zone 3 for Crime (Severity: 8)
+
+Dispatched unit to Zone 3 for Fire (Severity: 8)
+
+Dispatched unit to Zone 1 for Crime (Severity: 8)
+
+Dispatched unit to Zone 2 for Fire (Severity: 7)
+
+Dispatched unit to Zone 1 for Crime (Severity: 7)
+
+Dispatched unit to Zone 1 for Fire (Severity: 6)
+
+Dispatched unit to Zone 2 for Crime (Severity: 5)
+
+-------------------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:00:51 2025]
+--- Dispatching Emergency Units ---
+Dispatched unit to Zone 2 for Fire (Severity: 10)
+
+Dispatched unit to Zone 3 for Medical (Severity: 9)
+
+Dispatched unit to Zone 1 for Fire (Severity: 9)
+
+Dispatched unit to Zone 3 for Crime (Severity: 8)
+
+Dispatched unit to Zone 3 for Fire (Severity: 8)
+
+Dispatched unit to Zone 1 for Crime (Severity: 8)
+
+Dispatched unit to Zone 2 for Fire (Severity: 7)
+
+Dispatched unit to Zone 1 for Crime (Severity: 7)
+
+Dispatched unit to Zone 2 for Crime (Severity: 5)
+
+-------------------------------------------------------------

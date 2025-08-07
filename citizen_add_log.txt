@@ -1,0 +1,17 @@
+
+    =====================================================================
+                      SMART CITY ADD CITIZEN LOG REPORT                 
+    =====================================================================
+
+======= New Citizen Added =======
+ID        : C1037
+Name      : Erin Islam
+Age       : 24
+Zone      : 1
+Profession: Doctor
+Phone     : 01988877767
+Email     : erin@gmail.com
+-> Zone 1 updated:
+   +1 population, +3 kWh power, +3 gallons water, +4 kg waste
+----------------------------------
+

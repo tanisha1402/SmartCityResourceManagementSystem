@@ -1,0 +1,69 @@
+
+
+                        =====================================================================
+                                        SMART CITY EMERGENCY VIEW LOG                  
+                        =====================================================================
+
+[Timestamp: Thu Aug 07 18:38:10 2025]
+--- Viewing Active Emergencies ---
+Type: Fire, Zone: 2, Severity: 7, Status: Pending
+
+Type: Medical, Zone: 1, Severity: 4, Status: Pending
+
+Type: Crime, Zone: 3, Severity: 8, Status: Pending
+
+Type: Fire, Zone: 1, Severity: 6, Status: Pending
+
+Type: Medical, Zone: 3, Severity: 9, Status: Pending
+
+Type: Crime, Zone: 2, Severity: 5, Status: Pending
+
+Type: Fire, Zone: 3, Severity: 8, Status: Pending
+
+Type: Medical, Zone: 2, Severity: 3, Status: Pending
+
+Type: Crime, Zone: 1, Severity: 7, Status: Pending
+
+Type: Fire, Zone: 2, Severity: 10, Status: Pending
+
+Type: Medical, Zone: 3, Severity: 2, Status: Pending
+
+Type: Crime, Zone: 1, Severity: 6, Status: Pending
+
+Type: Crime, Zone: 1, Severity: 8, Status: Pending
+
+Type: Fire, Zone: 1, Severity: 9, Status: Pending
+
+-------------------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:00:47 2025]
+--- Viewing Active Emergencies ---
+Type: Fire, Zone: 2, Severity: 7, Status: Pending
+
+Type: Medical, Zone: 1, Severity: 4, Status: Pending
+
+Type: Crime, Zone: 3, Severity: 8, Status: Pending
+
+Type: Fire, Zone: 1, Severity: 6, Status: Pending
+
+Type: Medical, Zone: 3, Severity: 9, Status: Pending
+
+Type: Crime, Zone: 2, Severity: 5, Status: Pending
+
+Type: Fire, Zone: 3, Severity: 8, Status: Pending
+
+Type: Medical, Zone: 2, Severity: 3, Status: Pending
+
+Type: Crime, Zone: 1, Severity: 7, Status: Pending
+
+Type: Fire, Zone: 2, Severity: 10, Status: Pending
+
+Type: Medical, Zone: 3, Severity: 2, Status: Pending
+
+Type: Crime, Zone: 1, Severity: 6, Status: Pending
+
+Type: Crime, Zone: 1, Severity: 8, Status: Pending
+
+Type: Fire, Zone: 1, Severity: 9, Status: Pending
+
+-------------------------------------------------------------

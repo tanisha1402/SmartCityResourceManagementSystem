@@ -1,0 +1,7 @@
+
+                        =====================================================================
+                                        SMART CITY SEARCH CITIZEN LOG REPORT                 
+                        =====================================================================
+
+[2025-08-07 17:13:28] Search attempt for citizen ID: C1035
+  -> FOUND. Name: Jubair Mahmud, Zone: 1, Profession: Data Analyst

@@ -1,0 +1,34 @@
+
+                        =====================================================================
+                                        SMART CITY ADD POWER SOURCE LOG REPORT                 
+                        ==================================================================
+
+[Timestamp: Thu Aug 07 17:29:54 2025]
+Power source added: 100 kWh
+----------------------------------------------------
+--- Redistributing Power (Greedy to Underpowered Zones) ---
+Zone 1: Allocated 63 / 63 kWh
+Zone 2: Allocated 9 / 9 kWh
+Zone 3: Allocated 36 / 36 kWh
+Remaining Power: 92 kWh
+----------------------------------------------------
+
+[Timestamp: Thu Aug 07 18:19:23 2025]
+Power source added: 100 kWh
+----------------------------------------------------
+--- Redistributing Power (Greedy to Underpowered Zones) ---
+Zone 1: Allocated 63 / 63 kWh
+Zone 2: Allocated 9 / 9 kWh
+Zone 3: Allocated 36 / 36 kWh
+Remaining Power: 92 kWh
+----------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:24:56 2025]
+Power source added: 100 kWh
+----------------------------------------------------
+--- Redistributing Power (Greedy to Underpowered Zones) ---
+Zone 1: Allocated 126 / 126 kWh
+Zone 2: Allocated 2 / 18 kWh
+Zone 3: Allocated 72 / 72 kWh
+Remaining Power: 0 kWh
+----------------------------------------------------

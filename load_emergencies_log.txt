@@ -1,0 +1,313 @@
+
+                        =====================================================================
+                                        SMART CITY EMERGENCY LOADING LOG REPORT                 
+                        =====================================================================
+[Timestamp: Thu Aug 07 18:28:49 2025]
+Loading emergencies from 'emergencies_input.txt'...
+LOADED: Type=Fire, Zone=2, Severity=7, Status=Pending
+
+LOADED: Type=Medical, Zone=1, Severity=4, Status=Pending
+
+LOADED: Type=Crime, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Fire, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=9, Status=Pending
+
+LOADED: Type=Crime, Zone=2, Severity=5, Status=Pending
+
+LOADED: Type=Fire, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Medical, Zone=2, Severity=3, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=7, Status=Pending
+
+LOADED: Type=Fire, Zone=2, Severity=10, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=2, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=8, Status=Pending
+
+Total Emergencies Loaded: 13
+-------------------------------------------------------------
+
+[Timestamp: Thu Aug 07 18:31:37 2025]
+Loading emergencies from 'emergencies_input.txt'...
+LOADED: Type=Fire, Zone=2, Severity=7, Status=Pending
+
+LOADED: Type=Medical, Zone=1, Severity=4, Status=Pending
+
+LOADED: Type=Crime, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Fire, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=9, Status=Pending
+
+LOADED: Type=Crime, Zone=2, Severity=5, Status=Pending
+
+LOADED: Type=Fire, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Medical, Zone=2, Severity=3, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=7, Status=Pending
+
+LOADED: Type=Fire, Zone=2, Severity=10, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=2, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=8, Status=Pending
+
+Total Emergencies Loaded: 13
+-------------------------------------------------------------
+
+[Timestamp: Thu Aug 07 18:36:22 2025]
+Loading emergencies from 'emergencies_input.txt'...
+LOADED: Type=Fire, Zone=2, Severity=7, Status=Pending
+
+LOADED: Type=Medical, Zone=1, Severity=4, Status=Pending
+
+LOADED: Type=Crime, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Fire, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=9, Status=Pending
+
+LOADED: Type=Crime, Zone=2, Severity=5, Status=Pending
+
+LOADED: Type=Fire, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Medical, Zone=2, Severity=3, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=7, Status=Pending
+
+LOADED: Type=Fire, Zone=2, Severity=10, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=2, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=8, Status=Pending
+
+Total Emergencies Loaded: 13
+-------------------------------------------------------------
+
+[Timestamp: Thu Aug 07 18:37:42 2025]
+Loading emergencies from 'emergencies_input.txt'...
+LOADED: Type=Fire, Zone=2, Severity=7, Status=Pending
+
+LOADED: Type=Medical, Zone=1, Severity=4, Status=Pending
+
+LOADED: Type=Crime, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Fire, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=9, Status=Pending
+
+LOADED: Type=Crime, Zone=2, Severity=5, Status=Pending
+
+LOADED: Type=Fire, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Medical, Zone=2, Severity=3, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=7, Status=Pending
+
+LOADED: Type=Fire, Zone=2, Severity=10, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=2, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=8, Status=Pending
+
+Total Emergencies Loaded: 13
+-------------------------------------------------------------
+
+[Timestamp: Thu Aug 07 18:40:35 2025]
+Loading emergencies from 'emergencies_input.txt'...
+LOADED: Type=Fire, Zone=2, Severity=7, Status=Pending
+
+LOADED: Type=Medical, Zone=1, Severity=4, Status=Pending
+
+LOADED: Type=Crime, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Fire, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=9, Status=Pending
+
+LOADED: Type=Crime, Zone=2, Severity=5, Status=Pending
+
+LOADED: Type=Fire, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Medical, Zone=2, Severity=3, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=7, Status=Pending
+
+LOADED: Type=Fire, Zone=2, Severity=10, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=2, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=8, Status=Pending
+
+Total Emergencies Loaded: 13
+-------------------------------------------------------------
+
+[Timestamp: Thu Aug 07 18:42:00 2025]
+Loading emergencies from 'emergencies_input.txt'...
+LOADED: Type=Fire, Zone=2, Severity=7, Status=Pending
+
+LOADED: Type=Medical, Zone=1, Severity=4, Status=Pending
+
+LOADED: Type=Crime, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Fire, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=9, Status=Pending
+
+LOADED: Type=Crime, Zone=2, Severity=5, Status=Pending
+
+LOADED: Type=Fire, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Medical, Zone=2, Severity=3, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=7, Status=Pending
+
+LOADED: Type=Fire, Zone=2, Severity=10, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=2, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=8, Status=Pending
+
+Total Emergencies Loaded: 13
+-------------------------------------------------------------
+
+[Timestamp: Thu Aug 07 18:53:33 2025]
+Loading emergencies from 'emergencies_input.txt'...
+LOADED: Type=Fire, Zone=2, Severity=7, Status=Pending
+
+LOADED: Type=Medical, Zone=1, Severity=4, Status=Pending
+
+LOADED: Type=Crime, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Fire, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=9, Status=Pending
+
+LOADED: Type=Crime, Zone=2, Severity=5, Status=Pending
+
+LOADED: Type=Fire, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Medical, Zone=2, Severity=3, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=7, Status=Pending
+
+LOADED: Type=Fire, Zone=2, Severity=10, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=2, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=8, Status=Pending
+
+Total Emergencies Loaded: 13
+-------------------------------------------------------------
+
+[Timestamp: Thu Aug 07 18:55:31 2025]
+Loading emergencies from 'emergencies_input.txt'...
+LOADED: Type=Fire, Zone=2, Severity=7, Status=Pending
+
+LOADED: Type=Medical, Zone=1, Severity=4, Status=Pending
+
+LOADED: Type=Crime, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Fire, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=9, Status=Pending
+
+LOADED: Type=Crime, Zone=2, Severity=5, Status=Pending
+
+LOADED: Type=Fire, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Medical, Zone=2, Severity=3, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=7, Status=Pending
+
+LOADED: Type=Fire, Zone=2, Severity=10, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=2, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=8, Status=Pending
+
+Total Emergencies Loaded: 13
+-------------------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:00:36 2025]
+Loading emergencies from 'emergencies_input.txt'...
+LOADED: Type=Fire, Zone=2, Severity=7, Status=Pending
+
+LOADED: Type=Medical, Zone=1, Severity=4, Status=Pending
+
+LOADED: Type=Crime, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Fire, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=9, Status=Pending
+
+LOADED: Type=Crime, Zone=2, Severity=5, Status=Pending
+
+LOADED: Type=Fire, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Medical, Zone=2, Severity=3, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=7, Status=Pending
+
+LOADED: Type=Fire, Zone=2, Severity=10, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=2, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=8, Status=Pending
+
+Total Emergencies Loaded: 13
+-------------------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:25:18 2025]
+Loading emergencies from 'emergencies_input.txt'...
+LOADED: Type=Fire, Zone=2, Severity=7, Status=Pending
+
+LOADED: Type=Medical, Zone=1, Severity=4, Status=Pending
+
+LOADED: Type=Crime, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Fire, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=9, Status=Pending
+
+LOADED: Type=Crime, Zone=2, Severity=5, Status=Pending
+
+LOADED: Type=Fire, Zone=3, Severity=8, Status=Pending
+
+LOADED: Type=Medical, Zone=2, Severity=3, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=7, Status=Pending
+
+LOADED: Type=Fire, Zone=2, Severity=10, Status=Pending
+
+LOADED: Type=Medical, Zone=3, Severity=2, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=6, Status=Pending
+
+LOADED: Type=Crime, Zone=1, Severity=8, Status=Pending
+
+Total Emergencies Loaded: 13
+-------------------------------------------------------------

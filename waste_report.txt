@@ -1,0 +1,25 @@
+--- Waste Management Summary Report ---
+
+Zone 1:
+  Waste Level: 168%
+  Overflow Risk: HIGH
+  Estimated Days Before Overflow: 0 day(s)
+  Recommended Truck Size: Large
+  Suggested Collection Frequency: Daily
+--------------------------------------------------
+Zone 2:
+  Waste Level: 24%
+  Overflow Risk: LOW
+  Estimated Days Before Overflow: 16 day(s)
+  Recommended Truck Size: Small
+  Suggested Collection Frequency: Twice a Week
+--------------------------------------------------
+Zone 3:
+  Waste Level: 96%
+  Overflow Risk: HIGH
+  Estimated Days Before Overflow: 1 day(s)
+  Recommended Truck Size: Large
+  Suggested Collection Frequency: Daily
+--------------------------------------------------
+
+Note: Overflow prediction based on current trends and 5% daily waste rise.

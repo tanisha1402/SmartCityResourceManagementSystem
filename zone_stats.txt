@@ -1,0 +1,23 @@
+=================================================================
+                    SMART CITY ZONE STATS REPORT                 
+=================================================================
+
+--- Zone Resource Stats ---
+Zone 1:
+  Population: 21
+  Power Demand: 63 kWh
+  Water Demand: 63 gallons
+  Waste Level: 84 kg
+------------------------------
+Zone 2:
+  Population: 3
+  Power Demand: 9 kWh
+  Water Demand: 9 gallons
+  Waste Level: 12 kg
+------------------------------
+Zone 3:
+  Population: 12
+  Power Demand: 36 kWh
+  Water Demand: 36 gallons
+  Waste Level: 48 kg
+------------------------------

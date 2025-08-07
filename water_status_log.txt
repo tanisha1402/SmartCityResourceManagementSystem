@@ -1,0 +1,66 @@
+
+                        =====================================================================
+                                        SMART CITY WATER STATUS LOG REPORT                 
+                        ==================================================================
+[2025-08-07 17:53:26] --- Water Supply Status ---
+Total Water Capacity: 100 gallons
+Available Water: 0 gallons
+
+Zone-wise Water Details:
+Zone 1:
+  Water Demand: 63 gallons
+  Water Allocated: 63 gallons
+  Unmet Demand: 0 gallons
+------------------------------
+Zone 2:
+  Water Demand: 9 gallons
+  Water Allocated: 1 gallons
+  Unmet Demand: 8 gallons
+------------------------------
+Zone 3:
+  Water Demand: 36 gallons
+  Water Allocated: 36 gallons
+  Unmet Demand: 0 gallons
+------------------------------
+
+[2025-08-07 17:57:20] --- Water Supply Status ---
+Total Water Capacity: 100 gallons
+Available Water: 0 gallons
+
+Zone-wise Water Details:
+Zone 1:
+  Water Demand: 63 gallons
+  Water Allocated: 63 gallons
+  Unmet Demand: 0 gallons
+------------------------------
+Zone 2:
+  Water Demand: 9 gallons
+  Water Allocated: 1 gallons
+  Unmet Demand: 8 gallons
+------------------------------
+Zone 3:
+  Water Demand: 36 gallons
+  Water Allocated: 36 gallons
+  Unmet Demand: 0 gallons
+------------------------------
+
+[2025-08-07 19:25:04] --- Water Supply Status ---
+Total Water Capacity: 100 gallons
+Available Water: 0 gallons
+
+Zone-wise Water Details:
+Zone 1:
+  Water Demand: 126 gallons
+  Water Allocated: 100 gallons
+  Unmet Demand: 26 gallons
+------------------------------
+Zone 2:
+  Water Demand: 18 gallons
+  Water Allocated: 0 gallons
+  Unmet Demand: 18 gallons
+------------------------------
+Zone 3:
+  Water Demand: 72 gallons
+  Water Allocated: 0 gallons
+  Unmet Demand: 72 gallons
+------------------------------

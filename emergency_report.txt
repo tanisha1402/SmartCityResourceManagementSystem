@@ -1,0 +1,75 @@
+========================================================================
+                  SMART CITY EMERGENCY SERVICES REPORT                 
+========================================================================
+
+Report Generated: Aug  7 2025 at 18:41:47
+Module: Emergency Services & Simulation
+Algorithms Used: Greedy (Dispatch), Dynamic Programming (Prediction)
+------------------------------------------------------------------
+
+[1] Complete Emergency Case Log:
+  • Type: Fire, Zone: 2, Severity: 10, Status: Dispatched
+  • Type: Medical, Zone: 3, Severity: 9, Status: Dispatched
+  • Type: Crime, Zone: 3, Severity: 8, Status: Dispatched
+  • Type: Fire, Zone: 3, Severity: 8, Status: Dispatched
+  • Type: Crime, Zone: 1, Severity: 8, Status: Dispatched
+  • Type: Fire, Zone: 2, Severity: 7, Status: Dispatched
+  • Type: Crime, Zone: 1, Severity: 7, Status: Dispatched
+  • Type: Fire, Zone: 1, Severity: 6, Status: Dispatched
+  • Type: Crime, Zone: 1, Severity: 6, Status: Pending
+  • Type: Crime, Zone: 2, Severity: 5, Status: Dispatched
+  • Type: Medical, Zone: 1, Severity: 4, Status: Pending
+  • Type: Medical, Zone: 2, Severity: 3, Status: Pending
+  • Type: Medical, Zone: 3, Severity: 2, Status: Pending
+
+------------------------------------------------------------------
+[2] Summary Statistics:
+  → Total Emergencies: 13
+  → Emergencies by Type:
+     - Crime: 5 (Resolved: 4, Avg. Severity: 6)
+     - Fire: 4 (Resolved: 4, Avg. Severity: 7)
+     - Medical: 4 (Resolved: 1, Avg. Severity: 4)
+  → Zone-wise Emergency Distribution:
+     - Zone 1: 5 cases
+     - Zone 2: 4 cases
+     - Zone 3: 4 cases
+
+------------------------------------------------------------------
+[3] Emergency Trend Prediction (using Dynamic Programming):
+  Zone 1 Emergency History:
+     - Fire: 1 cases
+     - Medical: 1 cases
+     - Crime: 3 cases
+  Zone 2 Emergency History:
+     - Fire: 2 cases
+     - Medical: 1 cases
+     - Crime: 1 cases
+  Zone 3 Emergency History:
+     - Fire: 1 cases
+     - Medical: 2 cases
+     - Crime: 1 cases
+
+  → Prediction: Zone 1 is at highest risk.
+
+------------------------------------------------------------------
+[4] Dispatch Effectiveness (using Greedy Algorithm):
+  → Total Dispatched Cases: 9
+  → Pending / Unresolved Cases: 4
+  → Dispatch Success Rate: 69%
+
+------------------------------------------------------------------
+[5] Zone-wise Emergency Load Analysis:
+  - Zone 1: 5 emergencies → ✅ Normal Load
+  - Zone 2: 4 emergencies → ✅ Normal Load
+  - Zone 3: 4 emergencies → ✅ Normal Load
+
+------------------------------------------------------------------
+[6] Observations & Actionable Insights:
+  • Some emergencies remain unresolved. Investigate reasons and increase response units.
+  • High emergency volume in Zone 1. Recommend resource reinforcement.
+  • Ensure continuous data collection to improve predictions.
+  • Consider dynamic allocation of emergency vehicles based on recent trends.
+
+------------------------------------------------------------------
+✔ Report generated successfully by Smart City Emergency Management Module.
+===============================================================

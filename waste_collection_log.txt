@@ -1,0 +1,16 @@
+
+
+                        =====================================================================
+                                        SMART CITY WASTE COLLECTION LOG                  
+                        =====================================================================
+                        
+[Timestamp: Thu Aug 07 19:10:55 2025]
+--- Scheduled Waste Collection (Greedy Priority) ---
+Zone 1 with Waste Level: 84% --> Scheduled for collection.
+------------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:25:43 2025]
+--- Scheduled Waste Collection (Greedy Priority) ---
+Zone 1 with Waste Level: 168% --> Scheduled for collection.
+Zone 3 with Waste Level: 96% --> Scheduled for collection.
+------------------------------------------------------

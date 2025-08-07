@@ -1,0 +1,23 @@
+
+                        =====================================================================
+                                        SMART CITY EMERGENCY REPORT LOG                  
+                        =====================================================================
+[Timestamp: Thu Aug 07 18:31:42 2025]
+Attempting to report emergency...
+REPORTED: Type=Fire, Zone=1, Severity=9, Status=Pending
+-------------------------------------------------------------
+
+[Timestamp: Thu Aug 07 18:37:57 2025]
+Attempting to report emergency...
+REPORTED: Type=Fire, Zone=1, Severity=9, Status=Pending
+-------------------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:00:38 2025]
+Attempting to report emergency...
+REPORTED: Type=Fire, Zone=1, Severity=9, Status=Pending
+-------------------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:25:19 2025]
+Attempting to report emergency...
+REPORTED: Type=Fire, Zone=1, Severity=9, Status=Pending
+-------------------------------------------------------------

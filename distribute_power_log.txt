@@ -1,0 +1,22 @@
+
+                        =====================================================================
+                                        SMART CITY DISTRIBUTE POWER LOG REPORT                 
+                        =====================================================================
+
+
+=== Power Distribution Log ===
+Timestamp: Thu Aug 07 17:27:11 2025
+Zone 1: Allocated 63 / 63 kWh
+Zone 2: Allocated 1 / 9 kWh
+Zone 3: Allocated 36 / 36 kWh
+Remaining Power in Grid: 0 kWh
+-----------------------------
+
+
+=== Power Distribution Log ===
+Timestamp: Thu Aug 07 19:24:40 2025
+Zone 1: Allocated 100 / 126 kWh
+Zone 2: Allocated 0 / 18 kWh
+Zone 3: Allocated 0 / 72 kWh
+Remaining Power in Grid: 0 kWh
+-----------------------------

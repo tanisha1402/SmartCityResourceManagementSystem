@@ -1,0 +1,28 @@
+
+
+                        =====================================================================
+                                        SMART CITY OVERLOADED ZONES LOG                  
+                        =====================================================================
+[Timestamp: Thu Aug 07 18:48:07 2025]
+--- Overloaded Resource Zones ---
+Zone 1 - [Power Demand: 63] [Water Demand: 63] [Waste Level: 84] 
+Zone 3 - [Power Demand: 36] [Water Demand: 36] [Waste Level: 48] 
+----------------------------------------------------
+
+[Timestamp: Thu Aug 07 18:49:34 2025]
+--- Overloaded Resource Zones ---
+Zone 1 - [Power Demand: 63] [Water Demand: 63] [Waste Level: 84] 
+Zone 3 - [Power Demand: 36] [Water Demand: 36] [Waste Level: 48] 
+----------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:01:03 2025]
+--- Overloaded Resource Zones ---
+Zone 1 - [Power Demand: 63] [Water Demand: 63] [Waste Level: 84] 
+Zone 3 - [Power Demand: 36] [Water Demand: 36] [Waste Level: 48] 
+----------------------------------------------------
+
+[Timestamp: Thu Aug 07 19:26:01 2025]
+--- Overloaded Resource Zones ---
+Zone 1 - [Power Demand: 126] [Water Demand: 126] [Waste Level: 168] 
+Zone 3 - [Power Demand: 72] [Water Demand: 72] [Waste Level: 96] 
+----------------------------------------------------
